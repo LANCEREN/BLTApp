@@ -20,7 +20,7 @@ class register: UIViewController , UITextFieldDelegate {
     var StaticManagedObjectContext : NSManagedObjectContext? = nil   //数据库信息实体化区域
     
     var AccountHasExistedFlag = false
-    var a = 0
+
     
     override func viewDidLoad() {
         super.viewDidLoad()
