@@ -17,9 +17,25 @@
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>6</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>是否允许此App使用您的蓝牙？</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>是否允许此App使用您的日历？</string>
+	<key>NSCameraUsageDescription</key>
+	<string>是否允许此App使用您的相机？</string>
+	<key>NSContactsUsageDescription</key>
+	<string>是否允许此App使用您的通讯录？</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>是否允许此App访问您的地理位置?</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>是否允许此App使用您的麦克风？</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>是否允许此App给您发送消息？</string>
+	<key>UIBackgroundModes</key>
+	<array/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
@@ -28,21 +44,9 @@
 	<array>
 		<string>armv7</string>
 	</array>
-	<key>UIStatusBarTintParameters</key>
-	<dict>
-		<key>UINavigationBar</key>
-		<dict>
-			<key>Style</key>
-			<string>UIBarStyleDefault</string>
-			<key>Translucent</key>
-			<false/>
-		</dict>
-	</dict>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>

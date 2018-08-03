@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "  Account"; ObjectID = "1lt-Xe-4FA"; */
+"1lt-Xe-4FA.text" = "  账号";
+
+/* Class = "UIButton"; normalTitle = "Find"; ObjectID = "1qD-GR-r4H"; */
+"1qD-GR-r4H.normalTitle" = "搜索";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "298-Vf-VIv"; */
+"298-Vf-VIv.text" = "Label";
+
+/* Class = "UILabel"; text = "select"; ObjectID = "8FF-He-i3d"; */
+"8FF-He-i3d.text" = "选购";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "8rf-Zu-O8k"; */
+"8rf-Zu-O8k.normalTitle" = "清除";
+
+/* Class = "UILabel"; text = "              Account:"; ObjectID = "8ti-Jf-Gba"; */
+"8ti-Jf-Gba.text" = "            账户:";
+
+/* Class = "UILabel"; text = "copyright © 2017-2018 All right reserved."; ObjectID = "BT5-wz-fEw"; */
+"BT5-wz-fEw.text" = "copyright © 2017-2018 All right reserved.";
+
+/* Class = "UILabel"; text = "Connect"; ObjectID = "D3w-Zk-LKQ"; */
+"D3w-Zk-LKQ.text" = "连接售货机";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ijc-ax-UKJ"; */
+"Ijc-ax-UKJ.text" = "Label";
+
+/* Class = "UILabel"; text = "291914717@qq.com"; ObjectID = "IrF-Pq-gxG"; */
+"IrF-Pq-gxG.text" = "291914717@qq.com";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "KS5-YF-tbQ"; */
+"KS5-YF-tbQ.normalTitle" = "登录";
+
+/* Class = "UIButton"; normalTitle = "Log Off"; ObjectID = "Lqd-AP-E0x"; */
+"Lqd-AP-E0x.normalTitle" = "注销";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "NaL-P3-J8g"; */
+"NaL-P3-J8g.text" = "Name";
+
+/* Class = "UILabel"; text = "Account Setting"; ObjectID = "OpE-54-4Dk"; */
+"OpE-54-4Dk.text" = "账户设置";
+
+/* Class = "UIButton"; normalTitle = "Registration"; ObjectID = "PS4-IZ-rtV"; */
+"PS4-IZ-rtV.normalTitle" = "注册";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Pcs-LB-gzi"; */
+"Pcs-LB-gzi.normalTitle" = "后退";
+
+/* Class = "UITabBarItem"; title = "shopping"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "购物";
+
+/* Class = "UIButton"; normalTitle = "Forget password"; ObjectID = "bhx-2E-kf0"; */
+"bhx-2E-kf0.normalTitle" = "忘记密码";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "账号";
+
+/* Class = "UILabel"; text = "            Password:"; ObjectID = "dLk-70-jXV"; */
+"dLk-70-jXV.text" = "            密码:";
+
+/* Class = "UIButton"; normalTitle = "Administor Mode"; ObjectID = "h9n-Z8-SU3"; */
+"h9n-Z8-SU3.normalTitle" = "管理员模式";
