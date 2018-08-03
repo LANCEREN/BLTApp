@@ -29,7 +29,6 @@ class TabBar: UITabBarController ,CBCentralManagerDelegate {
             NSLog("状态无变化")
         }
     }
-    
 
     @IBOutlet weak var mytabbar: UITabBar!  //tabbar实体化方便构建监控函数
     static var adminflag = false   //tabbar页面下的管理员权限
